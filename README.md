@@ -1,3 +1,3 @@
 # apnacollegedemo
-thi sis my first git repo
-hello hw are you <br> commit shardha
+this is my first git repo
+hello how are you <br> commit shardha
